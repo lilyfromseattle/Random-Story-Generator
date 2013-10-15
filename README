@@ -1,0 +1,1 @@
+This program generates a random story. The random story generator is similar to MadLibs, except it doesn't rely on user input. Instead the generator selects words from lists within the program. I am working on expanding the story and the possible words.
